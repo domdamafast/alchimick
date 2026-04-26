@@ -31,7 +31,7 @@ ADMIN_ID=your_id (optional)
 Run the bot:
 python main.py
 
-project/
+project
 │
 ├── main.py          # bot logic
 ├── keyboards.py     # keyboards and crafting system
