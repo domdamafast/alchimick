@@ -23,9 +23,9 @@ Getting Started
 Install dependencies:                                                                                                                                     
 pip install aiogram python-dotenv
 
-Create .env file(without quotes""):                                                                                                                       
-BOT_TOKEN=your_bot_token                                                                                                                                  
-ADMIN_ID=your_id (optional)
+in file .venv write:                                                                                                                       
+BOT_TOKEN=your_bot_token  without quotes""                                                                                                                              
+ADMIN_ID=your_id (optional,without quotes"")
 
 Run the bot:                                                                                                                                              
 python main.py
