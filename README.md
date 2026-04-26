@@ -42,3 +42,4 @@ Commands:
 /reset — reset your progress                                                                                                                              
 admin, add — get all elements (admin only)                                                                                                                
 
+I made and ran a bot in Visual Studio Code
